@@ -1,0 +1,7 @@
+{
+    "apps": [{
+        "name": "hynt-frontend",
+        "script": "npm",
+        "args": "run dev"
+    }]
+}
